@@ -8,4 +8,8 @@ public class Nidaye {
 		private void test() {
 			System.out.println("haode");
 		}
+		private void test3() {
+			
+
+		}
 }
