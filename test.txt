@@ -8,4 +8,8 @@ v1		sdadsddas
 v2 
 adsada
 
+<<<<<<< HEAD
 womeixiugai
+=======
+我修改了
+>>>>>>> branch 'master' of https://github.com/tian3495871/abc-repository.git
